@@ -1,0 +1,232 @@
+[
+  {
+    "adr_city": "Middletown",
+    "first_visit": "20170120",
+    "verb": "NEW",
+    "avg_visits_per_week": 0,
+    "last_visit": "20170120",
+    "cltv": 0,
+    "avg_revenue_per_visit": 0,
+    "total_revenue_from_customer": 0,
+    "event_time": "2017-01-20:12:45:52.041Z",
+    "last_name": "Smith",
+    "num_visits": 0,
+    "key": "96f55c7d8f42",
+    "adr_state": "AK",
+    "type": "CUSTOMER"
+  },
+  {
+    "event_time": "2017-01-20:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "key": "ac05e815512f",
+    "type": "SITE_VISIT"
+  },
+  {
+    "last_visit": "20170120",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "key": "96f55c7d8f42",
+    "type": "STATS",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-01-22:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "key": "ac05e815512g",
+    "type": "SITE_VISIT"
+  },
+  {
+    "last_visit": "20170122",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "cltv": 0,
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "type": "STATS"
+  },
+  {
+    "event_time": "2017-01-24:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55ce7d8f42",
+    "key": "ac05e815512h",
+    "type": "SITE_VISIT"
+  },
+  {
+    "event_time": "2017-03-20:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "type": "SITE_VISIT",
+    "key": "ac05e815512i"
+  },
+  {
+    "last_visit": "20170320",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "avg_visits_per_week": 0.1111111111111111,
+    "type": "STATS",
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-04-21:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "type": "SITE_VISIT",
+    "key": "ac05e815512j"
+  },
+  {
+    "last_visit": "20170421",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "avg_visits_per_week": 0.07692307692307693,
+    "type": "STATS",
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-04-22:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "type": "SITE_VISIT",
+    "key": "ac05e815512k"
+  },
+  {
+    "last_visit": "20170422",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "avg_visits_per_week": 0.07692307692307693,
+    "type": "STATS",
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-05-20:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "type": "SITE_VISIT",
+    "key": "ac05e815512l"
+  },
+  {
+    "last_visit": "20170520",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "avg_visits_per_week": 0.058823529411764705,
+    "type": "STATS",
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-05-22:12:45:52.041Z",
+    "verb": "NEW",
+    "tags": {
+      "some key": "some value"
+    },
+    "customer_id": "96f55c7d8f42",
+    "type": "SITE_VISIT",
+    "key": "ac05e815512m"
+  },
+  {
+    "last_visit": "20170522",
+    "first_visit": "20170120",
+    "num_visits": 1,
+    "avg_visits_per_week": 0.05555555555555555,
+    "type": "STATS",
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "cltv": 0
+  },
+  {
+    "event_time": "2017-01-20:12:47:12.344Z",
+    "verb": "UPLOAD",
+    "camera_model": "EOS 80D",
+    "customer_id": "96f55c7d8f42",
+    "camera_make": "Canon",
+    "type": "IMAGE",
+    "key": "d8ede43b1e9f"
+  },
+  {
+    "total_amount": "20.00 USD",
+    "event_time": "2017-01-20:12:55:55.555Z",
+    "verb": "NEW",
+    "customer_id": "96f55c7d8f42",
+    "key": "68d84e5d1b43",
+    "type": "ORDER"
+  },
+  {
+    "last_visit": "20170120",
+    "first_visit": "20170120",
+    "num_visits": 0,
+    "avg_visits_per_week": 0,
+    "cltv": 0,
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "total_revenue_from_customer": 20.0,
+    "type": "STATS"
+  },
+  {
+    "total_amount": "320.00 USD",
+    "event_time": "2017-03-20:12:55:55.555Z",
+    "verb": "NEW",
+    "customer_id": "96f55c7d8f42",
+    "key": "68d84e5d1b44",
+    "type": "ORDER"
+  },
+  {
+    "last_visit": "20170320",
+    "first_visit": "20170120",
+    "num_visits": 0,
+    "avg_visits_per_week": 0,
+    "cltv": 0,
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "total_revenue_from_customer": 320.0,
+    "type": "STATS"
+  },
+  {
+    "total_amount": "420.00 USD",
+    "event_time": "2017-05-22:12:55:55.555Z",
+    "verb": "NEW",
+    "customer_id": "96f55c7d8f42",
+    "key": "68d84e5d1b45",
+    "type": "ORDER"
+  },
+  {
+    "last_visit": "20170522",
+    "first_visit": "20170120",
+    "num_visits": 0,
+    "avg_visits_per_week": 0,
+    "cltv": 0,
+    "key": "96f55c7d8f42",
+    "avg_revenue_per_visit": 0,
+    "total_revenue_from_customer": 420.0,
+    "type": "STATS"
+  }
+]
